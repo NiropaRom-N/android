@@ -7,7 +7,7 @@
   <include name="omni-aosp.xml" />
 
   <!-- OmniROM Projects -->
-  <project path="android" name="android" remote="omnirom" revision="android-7.0" />
+  <project path="android" name="android" remote="niropa" revision="android-7.0" />
 
   <project path="bootable/recovery" name="android_bootable_recovery" remote="omnirom" revision="android-7.0" groups="pdk-cw-fs"/>
 
