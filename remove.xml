@@ -29,7 +29,6 @@
   <remove-project name="device/google/dragon-kernel" />
   <remove-project name="device/htc/flounder" />
   <remove-project name="device/htc/flounder-kernel" />
-  <remove-project name="device/huawei/angler" />
   <remove-project name="device/huawei/angler-kernel" />
   <remove-project name="device/intel/edison" />
   <remove-project name="device/lge/bullhead" />
